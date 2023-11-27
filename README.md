@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoy06&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmoy06" alt="tanmoy06" /></a> </p>
-
-- 🔭 I’m currently working on **gamaru_mobile_app**
-
 - 🌱 I’m currently learning **flutter,python,Java**
 
 - 📫 How to reach me **iamtanmoysarkar007@gmail.com**
